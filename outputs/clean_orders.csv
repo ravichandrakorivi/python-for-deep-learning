@@ -1,0 +1,11 @@
+order_id,customer,product,category,price_per_item,quantity,total_amount,order_date,city,discounted
+1001,Aarav,Wireless Mouse,Electronics,799,1,799,2024-01-05,Chennai,719
+1002,Vihaan,Running Shoes,Fashion,2499,1,2499,2024-01-07,Bangalore,2249
+1003,Arjun,Coffee Maker,Home Appliances,3499,1,3499,2024-01-10,Hyderabad,3149
+1004,Reyansh,T-shirt,Fashion,599,2,1198,2024-01-12,Mumbai,1078
+1005,Ananya,Smartphone,Electronics,15999,1,15999,2024-01-15,Delhi,14399
+1006,Ishaan,Headphones,Electronics,1299,1,1299,2024-01-18,Pune,1169
+1007,Diya,Office Chair,Furniture,5499,1,5499,2024-01-20,Chennai,4949
+1008,Kavya,Backpack,Accessories,999,1,999,2024-01-22,Kolkata,899
+1009,Rohan,Water Bottle,Accessories,299,3,897,2024-01-25,Ahmedabad,807
+1010,Aditya,Laptop,Electronics,55999,1,55999,2024-01-28,Bangalore,50399

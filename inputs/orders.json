@@ -1,0 +1,112 @@
+[
+  {
+    "order_id": 1001,
+    "customer": "Aarav",
+    "product": "Wireless Mouse",
+    "category": "Electronics",
+    "price_per_item": 799,
+    "quantity": 1,
+    "total_amount": 799,
+    "order_date": "2024-01-05",
+    "city": "Chennai"
+  },
+  {
+    "order_id": 1002,
+    "customer": "Vihaan",
+    "product": "Running Shoes",
+    "category": "Fashion",
+    "price_per_item": 2499,
+    "quantity": 1,
+    "total_amount": 2499,
+    "order_date": "2024-01-07",
+    "city": "Bangalore"
+  },
+  {
+    "order_id": 1003,
+    "customer": "Arjun",
+    "product": "Coffee Maker",
+    "category": "Home Appliances",
+    "price_per_item": 3499,
+    "quantity": 1,
+    "total_amount": 3499,
+    "order_date": "2024-01-10",
+    "city": "Hyderabad"
+  },
+  {
+    "order_id": 1004,
+    "customer": "Reyansh",
+    "product": "T-shirt",
+    "category": "Fashion",
+    "price_per_item": 599,
+    "quantity": 2,
+    "total_amount": 1198,
+    "order_date": "2024-01-12",
+    "city": "Mumbai"
+  },
+  {
+    "order_id": 1005,
+    "customer": "Ananya",
+    "product": "Smartphone",
+    "category": "Electronics",
+    "price_per_item": 15999,
+    "quantity": 1,
+    "total_amount": 15999,
+    "order_date": "2024-01-15",
+    "city": "Delhi"
+  },
+  {
+    "order_id": 1006,
+    "customer": "Ishaan",
+    "product": "Headphones",
+    "category": "Electronics",
+    "price_per_item": 1299,
+    "quantity": 1,
+    "total_amount": 1299,
+    "order_date": "2024-01-18",
+    "city": "Pune"
+  },
+  {
+    "order_id": 1007,
+    "customer": "Diya",
+    "product": "Office Chair",
+    "category": "Furniture",
+    "price_per_item": 5499,
+    "quantity": 1,
+    "total_amount": 5499,
+    "order_date": "2024-01-20",
+    "city": "Chennai"
+  },
+  {
+    "order_id": 1008,
+    "customer": "Kavya",
+    "product": "Backpack",
+    "category": "Accessories",
+    "price_per_item": 999,
+    "quantity": 1,
+    "total_amount": 999,
+    "order_date": "2024-01-22",
+    "city": "Kolkata"
+  },
+  {
+    "order_id": 1009,
+    "customer": "Rohan",
+    "product": "Water Bottle",
+    "category": "Accessories",
+    "price_per_item": 299,
+    "quantity": 3,
+    "total_amount": 897,
+    "order_date": "2024-01-25",
+    "city": "Ahmedabad"
+  },
+  {
+    "order_id": 1010,
+    "customer": "Aditya",
+    "product": "Laptop",
+    "category": "Electronics",
+    "price_per_item": 55999,
+    "quantity": 1,
+    "total_amount": 55999,
+    "order_date": "2024-01-28",
+    "city": "Bangalore"
+  }
+]

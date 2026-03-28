@@ -1,56 +1,11 @@
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Python cache files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Virtual environments
-venv/
-env/
-.venv/
-
-# Environment variables
+# Enivironment variables
 .env
 
-# Jupyter Notebook outputs (optional – if you want clean notebooks)
-*.nbconvert.ipynb
+# Jupyter
+.ipynb_checkpoints/
 
-# IPython
-profile_default/
-ipython_config.py
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
 
-# OS files
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-
-# VS Code / IDE settings
-.vscode/
-.idea/
-
-# Temporary files
-*.tmp
-*.swp
-
-# Data files (optional - depends on project)
-data/
-*.csv
-*.sqlite3
-
-# Model files (ML projects)
-*.h5
-*.pt
-*.pth
-
-# Coverage / testing
-.coverage
-htmlcov/
-
-# Packaging
-build/
-dist/
-*.egg-info/
